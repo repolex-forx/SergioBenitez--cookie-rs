@@ -1,0 +1,47 @@
+{
+  "manifest_version": "1.0",
+  "org": "SergioBenitez",
+  "repo": "cookie-rs",
+  "versions": [
+    {
+      "commit": "1ec8fded5654679482a91c784e7ff2874b0fdeff",
+      "parsed_at": "2026-11-22T14:43:38.761127+00:00",
+      "tag": "0.18.2",
+      "filetree": "filetree/1ec8fded5654679482a91c784e7ff2874b0fdeff.nq.gz",
+      "blobs": [
+        "blob/f666d2c3bc9e0a7335fa23e250caea928fa49e67.nq.gz",
+        "blob/35ae347dff11d9972ce3fdbf760329fc0f0e8e95.nq.gz",
+        "blob/e832801a438a7ef119b676f687815e07c61b7764.nq.gz",
+        "blob/5cd49dc7e968cca184e517354ed6a20a2f9a9fc4.nq.gz",
+        "blob/dee45b214624c594f70e7f5cc6fd72fad6c83574.nq.gz",
+        "blob/f44cff5ede6c7915bd844611d85ecdaf4509b4b8.nq.gz",
+        "blob/8b62a933d8917b6db704583d9d9cb4f614cdd348.nq.gz",
+        "blob/e2da4ffdf7d823501f57f1eeb3c4558be330e94f.nq.gz",
+        "blob/7624e6b256b9cc09d5c999d9796ee210f271a2dc.nq.gz",
+        "blob/9dbb732fb3df60b6a7a55085d1c871cf7ea72310.nq.gz",
+        "blob/3797fee154e61479b7e07a11e47bf3d129ca0e5d.nq.gz",
+        "blob/8caf86e5e93e6e17715ca97ecc557e6a5d620551.nq.gz",
+        "blob/c0913d655891b5dbe2fee23c4398c388a6713681.nq.gz",
+        "blob/1a45eee7760d240bfa8ac1989088e0349169f264.nq.gz",
+        "blob/894d468eb7078e1932bb672f467df662e64a8482.nq.gz",
+        "blob/4fffb2f89cbd8f2169ce9914bd16bd43785bb368.nq.gz",
+        "blob/66f1ea2136797dd4797a14dc6ed1b9c4856777bc.nq.gz",
+        "blob/9575b2e7de42766640bd10718c4a1b4c5540d3fe.nq.gz",
+        "blob/8d7e9d59c0bfdfaedb77e584dd0c79db22d6eb6e.nq.gz",
+        "blob/d88f940f4aa3a81b2f093d5da2efa6c0d5418a72.nq.gz",
+        "blob/7497003166ac8b855bb94c1f3791b90780b9bcde.nq.gz",
+        "blob/89eaf9fbb2574b1c8d4d603211031954a9480146.nq.gz",
+        "blob/ea417054efad43d1d1223659f66e50a912ac2938.nq.gz",
+        "blob/29953103374fc2734bdf136de0a78df973759aa2.nq.gz",
+        "blob/7c49de955e1242147df3e193e801bfc9ac893990.nq.gz",
+        "blob/7d5091ca789d6e62b9237dd95d523fbfaba32182.nq.gz",
+        "blob/e625e81c90f1fad4809850eaec40d5858a6afa5a.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
