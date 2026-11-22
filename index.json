@@ -1,0 +1,11 @@
+{
+  "org": "SergioBenitez",
+  "repo": "cookie-rs",
+  "versions": [
+    {
+      "commit": "1ec8fded5654679482a91c784e7ff2874b0fdeff",
+      "tag": "0.18.2",
+      "parsed_at": "2026-11-22T14:49:55.649185+00:00"
+    }
+  ]
+}
