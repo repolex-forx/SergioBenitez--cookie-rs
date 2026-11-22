@@ -39,6 +39,113 @@
       ],
       "ast": [
         "aggregate/ast/1ec8fded5654679482a91c784e7ff2874b0fdeff/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/1ec8fded5654679482a91c784e7ff2874b0fdeff.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "time",
+          "ecosystem": "CARGO",
+          "version": "0.3.9",
+          "githubOrg": "time-rs",
+          "githubRepo": "time",
+          "githubCommit": "a957e12213caa794a78da728aad474e3e071f626",
+          "githubTag": "v0.3.9",
+          "githubUrl": "https://github.com/time-rs/time",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "percent-encoding",
+          "ecosystem": "CARGO",
+          "version": "2.0",
+          "githubOrg": "servo",
+          "githubRepo": "rust-url",
+          "githubUrl": "https://github.com/servo/rust-url/",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "aes-gcm",
+          "ecosystem": "CARGO",
+          "version": "0.10.0",
+          "githubOrg": "RustCrypto",
+          "githubRepo": "AEADs",
+          "githubUrl": "https://github.com/RustCrypto/AEADs",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "hmac",
+          "ecosystem": "CARGO",
+          "version": "0.12.0",
+          "githubOrg": "RustCrypto",
+          "githubRepo": "MACs",
+          "githubUrl": "https://github.com/RustCrypto/MACs",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "sha2",
+          "ecosystem": "CARGO",
+          "version": "0.10.0",
+          "githubOrg": "RustCrypto",
+          "githubRepo": "hashes",
+          "githubUrl": "https://github.com/RustCrypto/hashes",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "base64",
+          "ecosystem": "CARGO",
+          "version": "0.22",
+          "githubOrg": "marshallpierce",
+          "githubRepo": "rust-base64",
+          "githubUrl": "https://github.com/marshallpierce/rust-base64",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "rand",
+          "ecosystem": "CARGO",
+          "version": "0.8",
+          "githubOrg": "rust-random",
+          "githubRepo": "rand",
+          "githubUrl": "https://github.com/rust-random/rand",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "hkdf",
+          "ecosystem": "CARGO",
+          "version": "0.12.0",
+          "githubOrg": "RustCrypto",
+          "githubRepo": "KDFs",
+          "githubUrl": "https://github.com/RustCrypto/KDFs/",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "subtle",
+          "ecosystem": "CARGO",
+          "version": "2.3",
+          "githubOrg": "dalek-cryptography",
+          "githubRepo": "subtle",
+          "githubUrl": "https://github.com/dalek-cryptography/subtle",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "version_check",
+          "ecosystem": "CARGO",
+          "version": "0.9.4",
+          "githubOrg": "SergioBenitez",
+          "githubRepo": "version_check",
+          "githubCommit": "736b788c9c32c93b545cb084eac6f94f31f2872c",
+          "githubTag": "v0.9.4",
+          "githubUrl": "https://github.com/SergioBenitez/version_check",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "time-macros",
+          "ecosystem": "CARGO",
+          "version": "0.2.32",
+          "githubOrg": "time-rs",
+          "githubRepo": "time",
+          "githubUrl": "https://github.com/time-rs/time",
+          "source": "lsp",
+          "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/time-macros-0.2.32/src/lib.rs"
+        }
       ]
     }
   ],
